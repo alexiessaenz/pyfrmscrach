@@ -3,6 +3,4 @@ using namespace std;
 
 int main(void) {
     cout<< "\nhola mundo!\n" << endl;
-    
-    
 }
